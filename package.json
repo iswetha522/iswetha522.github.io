@@ -3,7 +3,9 @@
     "name": "github-resume",
     "version": "1.0.0",
     "scripts": {
-        "start": "gulp watch"
+        "start": "gulp watch",
+        "css" : "gulp css",
+        "js" : "gulp js"
     },
     "description": "Hosted Github Resume.",
     "keywords": [
