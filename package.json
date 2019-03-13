@@ -1,11 +1,11 @@
 {
-    "title": "Resume",
-    "name": "startbootstrap-resume",
-    "version": "5.0.4",
+    "title": "Vijayalakshmi Kalidindi - Resume",
+    "name": "github-resume",
+    "version": "1.0.0",
     "scripts": {
         "start": "gulp watch"
     },
-    "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+    "description": "Hosted Github Resume.",
     "keywords": [
         "css",
         "sass",
@@ -14,19 +14,12 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/resume",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
-        "email": "feedback@startbootstrap.com"
-    },
+    "homepage": "https://iswetha522.github.io",
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "author": "Vijayalakshmi Kalidindi",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
+        "url": "https://github.com/iswetha522/iswetha522.github.io.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.7.2",
